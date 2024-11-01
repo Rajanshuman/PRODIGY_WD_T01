@@ -1,6 +1,10 @@
 .container {
     text-align: center;
     font-size: 2em;
+    background-color: hsl(210,100%,50%);
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.5);
 }
 
 #display {
